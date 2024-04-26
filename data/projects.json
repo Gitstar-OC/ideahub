@@ -10,6 +10,16 @@
         "tags": "java, swing, security, file-protection-system"
     },
     {
+        "name": "Machine-Learning",
+        "display": "Machine Learning Specialization",
+        "description": "This is project with complete notes of machine learning for beginner ( In progress )",
+        "author": "Gitstar-OC",
+        "category": "ml",
+        "level": "intermediate",
+        "site": "https://github.com/Gitstar-OC/Machine-Learning",
+        "tags": "Machine Learning, AI, Specialization, Supervised learning, Unsuperwised learning"
+    },
+    {
         "name": "markdown-dungeon",
         "display": "Markdown Dungeon",
         "description": "This is an example that how to use Markdown creating a dungeon",

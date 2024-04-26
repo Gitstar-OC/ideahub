@@ -12,6 +12,12 @@
         "tags": "to-do"
     },
     {
+        "title": "Encountering Deepfakes",
+        "description": "Creating different model through machine learning and scaling it to top level, the developer should AI and other machine learning models like regression and k-means to identify the video",
+        "level": "advanced",
+        "tags": "Deepfakes, AI, ML , Deep Learning"
+    },
+    {
         "title": "Snake",
         "description": "If you had a cellphone in the early 2000s, you’ve probably played Snake. It’s a simple game but you can always try to make things more complex! First, start by just trying to make the game.",
         "level": "intermediate",
